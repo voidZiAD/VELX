@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/abbe771b-a267-489b-9440-385d8f4b554d" alt="VeloraAI" width="50"/> — Intelligent Game Highlight Sidebar for Windows
+# <img src="https://github.com/user-attachments/assets/abbe771b-a267-489b-9440-385d8f4b554d" alt="VeloraAI" width="50"/> — Intelligent Game Highlight Sidebar for Windows [Work in Progress]
 
 **VELX** is a modern C#-based sidebar tool for Windows, designed to work like **NVIDIA Highlights**, providing game-aware capture controls, overlay UI, and notification animations — without requiring high-end GPUs.
 
