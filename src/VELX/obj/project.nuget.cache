@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JMIKg8agrXc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ziadf\\source\\repos\\VELX\\VELX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziadf\\.nuget\\packages\\costura.fody\\6.0.0\\costura.fody.6.0.0.nupkg.sha512",
+    "C:\\Users\\ziadf\\.nuget\\packages\\fody\\6.8.2\\fody.6.8.2.nupkg.sha512",
+    "C:\\Users\\ziadf\\.nuget\\packages\\fontregister\\3.1.0\\fontregister.3.1.0.nupkg.sha512",
+    "C:\\Users\\ziadf\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+    "C:\\Users\\ziadf\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\ziadf\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
