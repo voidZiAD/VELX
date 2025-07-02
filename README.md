@@ -170,7 +170,7 @@ notificationIcon.DoubleClick += (s, e) => ToggleSidebar();
 * [Guna UI2 Framework](https://www.nuget.org/packages/Guna.UI2.WinForms/)
 * Inspired by **NVIDIA Highlights**
 * Built with ❤
-* By voidZiAD & didntpot
+* By [voidZiAD](https://github.com/voidZiAD) & [didntpot](https://github.com/didntpot)
 
 ---
 
