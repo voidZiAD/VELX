@@ -208,7 +208,8 @@ namespace VELX.UI
             }
             else
             {
-                var notif = new VELXNotif("VELX is now in the background", "hidden");
+                var notif = new VELXNotif(@"VELX is now hiding in the
+background", "hidden");
                 notif.SlideInFromTopRight();
                 UnregisterHotKey(this.Handle, HOTKEY_ID);
                 UninstallMouseHook();
@@ -397,24 +398,51 @@ namespace VELX.UI
         const int SWP_SHOWWINDOW = 0x0040;
         private bool allowExit = false;
 
+        private bool isExiting = false; // <-- NEW flag
+
         protected override void OnFormClosing(FormClosingEventArgs e)
         {
+            if (isExiting)
+            {
+                base.OnFormClosing(e);
+                return;
+            }
+
             if (!allowExit)
             {
                 e.Cancel = true;
                 this.Hide();
+                return;
+            }
 
-            }
-            else
-            {
-                UnregisterHotKey(this.Handle, HOTKEY_ID);
-                UnregisterHotKey(this.Handle, HOTKEY_ID_ALT_X);
-                UninstallMouseHook();
-                notificationIcon.Visible = false;
-                notificationIcon.Dispose();
-                base.OnFormClosing(e);
-            }
+            e.Cancel = true;
+            this.Hide();
+
+            isExiting = true;
+            PerformDelayedExit();
         }
+
+        private async void PerformDelayedExit()
+        {
+            notificationIcon.Visible = false;
+            notificationIcon.Dispose();
+            var notif = new VELXNotif(@"VELX is closing and will no
+longer record clips. Goodbye!", "wave");
+            notif.SlideInFromTopRight();
+
+            await Task.Delay(4000); // Let user see the notif
+
+            // Cleanup
+            UnregisterHotKey(this.Handle, HOTKEY_ID);
+            UnregisterHotKey(this.Handle, HOTKEY_ID_ALT_X);
+            UninstallMouseHook();
+
+            allowExit = true;
+
+            this.Close();
+        }
+
+
 
 
         // -------------------------

@@ -213,6 +213,16 @@ namespace VELX.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_so_so_24 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-so-so-24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_statistics_24 {
             get {
                 object obj = ResourceManager.GetObject("icons8-statistics-24", resourceCulture);

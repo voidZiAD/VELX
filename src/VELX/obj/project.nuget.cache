@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JMIKg8agrXc=",
+  "dgSpecHash": "ohYYQmbLRYg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ziadf\\source\\repos\\VELX\\VELX.csproj",
+  "projectFilePath": "C:\\Users\\ziadf\\OneDrive\\Documents\\GitHub\\VELX\\src\\VELX\\VELX.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ziadf\\.nuget\\packages\\costura.fody\\6.0.0\\costura.fody.6.0.0.nupkg.sha512",
     "C:\\Users\\ziadf\\.nuget\\packages\\fody\\6.8.2\\fody.6.8.2.nupkg.sha512",

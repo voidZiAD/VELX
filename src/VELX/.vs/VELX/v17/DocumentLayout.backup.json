@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ziadf\\source\\repos\\VELX\\",
+  "WorkspaceRootPath": "C:\\Users\\ziadf\\OneDrive\\Documents\\GitHub\\VELX\\src\\VELX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E24EC32-D77F-4A9B-9990-AEC1CDEBFACF}|VELX.csproj|c:\\users\\ziadf\\source\\repos\\velx\\ui\\velxnotif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E24EC32-D77F-4A9B-9990-AEC1CDEBFACF}|VELX.csproj|solutionrelative:ui\\velxnotif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E24EC32-D77F-4A9B-9990-AEC1CDEBFACF}|VELX.csproj|c:\\users\\ziadf\\source\\repos\\velx\\ui\\velxsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E24EC32-D77F-4A9B-9990-AEC1CDEBFACF}|VELX.csproj|c:\\users\\ziadf\\onedrive\\documents\\github\\velx\\src\\velx\\ui\\velxsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E24EC32-D77F-4A9B-9990-AEC1CDEBFACF}|VELX.csproj|solutionrelative:ui\\velxsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E24EC32-D77F-4A9B-9990-AEC1CDEBFACF}|VELX.csproj|C:\\Users\\ziadf\\source\\repos\\VELX\\ui\\velxsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1E24EC32-D77F-4A9B-9990-AEC1CDEBFACF}|VELX.csproj|solutionrelative:ui\\velxsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1E24EC32-D77F-4A9B-9990-AEC1CDEBFACF}|VELX.csproj|c:\\users\\ziadf\\onedrive\\documents\\github\\velx\\src\\velx\\velx.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1E24EC32-D77F-4A9B-9990-AEC1CDEBFACF}|VELX.csproj|solutionrelative:velx.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E24EC32-D77F-4A9B-9990-AEC1CDEBFACF}|VELX.csproj|c:\\users\\ziadf\\source\\repos\\velx\\velx.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{1E24EC32-D77F-4A9B-9990-AEC1CDEBFACF}|VELX.csproj|solutionrelative:velx.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{1E24EC32-D77F-4A9B-9990-AEC1CDEBFACF}|VELX.csproj|C:\\Users\\ziadf\\OneDrive\\Documents\\GitHub\\VELX\\src\\VELX\\ui\\velxsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E24EC32-D77F-4A9B-9990-AEC1CDEBFACF}|VELX.csproj|solutionrelative:ui\\velxsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +26,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "VELX",
-              "DocumentMoniker": "C:\\Users\\ziadf\\source\\repos\\VELX\\VELX.csproj",
+              "DocumentMoniker": "C:\\Users\\ziadf\\OneDrive\\Documents\\GitHub\\VELX\\src\\VELX\\VELX.csproj",
               "RelativeDocumentMoniker": "VELX.csproj",
-              "ToolTip": "C:\\Users\\ziadf\\source\\repos\\VELX\\VELX.csproj",
+              "ToolTip": "C:\\Users\\ziadf\\OneDrive\\Documents\\GitHub\\VELX\\src\\VELX\\VELX.csproj",
               "RelativeToolTip": "VELX.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-30T19:06:22.652Z",
@@ -44,36 +40,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VELXNotif.cs",
-              "DocumentMoniker": "C:\\Users\\ziadf\\source\\repos\\VELX\\UI\\VELXNotif.cs",
-              "RelativeDocumentMoniker": "UI\\VELXNotif.cs",
-              "ToolTip": "C:\\Users\\ziadf\\source\\repos\\VELX\\UI\\VELXNotif.cs",
-              "RelativeToolTip": "UI\\VELXNotif.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAuwHkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T16:20:51.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "VELXSidebar.cs",
-              "DocumentMoniker": "C:\\Users\\ziadf\\source\\repos\\VELX\\UI\\VELXSidebar.cs",
+              "DocumentMoniker": "C:\\Users\\ziadf\\OneDrive\\Documents\\GitHub\\VELX\\src\\VELX\\UI\\VELXSidebar.cs",
               "RelativeDocumentMoniker": "UI\\VELXSidebar.cs",
-              "ToolTip": "C:\\Users\\ziadf\\source\\repos\\VELX\\UI\\VELXSidebar.cs",
+              "ToolTip": "C:\\Users\\ziadf\\OneDrive\\Documents\\GitHub\\VELX\\src\\VELX\\UI\\VELXSidebar.cs",
               "RelativeToolTip": "UI\\VELXSidebar.cs",
-              "ViewState": "AgIAAGECAAAAAAAAAAAuwG8CAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T19:06:19.073Z",
+              "WhenOpened": "2025-07-02T12:49:43.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "VELXSidebar.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ziadf\\source\\repos\\VELX\\UI\\VELXSidebar.cs",
+              "DocumentMoniker": "C:\\Users\\ziadf\\OneDrive\\Documents\\GitHub\\VELX\\src\\VELX\\UI\\VELXSidebar.cs",
               "RelativeDocumentMoniker": "UI\\VELXSidebar.cs",
-              "ToolTip": "C:\\Users\\ziadf\\source\\repos\\VELX\\UI\\VELXSidebar.cs [Design]",
+              "ToolTip": "C:\\Users\\ziadf\\OneDrive\\Documents\\GitHub\\VELX\\src\\VELX\\UI\\VELXSidebar.cs [Design]",
               "RelativeToolTip": "UI\\VELXSidebar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T11:30:57.086Z",

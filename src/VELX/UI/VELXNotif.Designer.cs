@@ -41,7 +41,7 @@
             panel1.BackColor = Color.Purple;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(5, 98);
+            panel1.Size = new Size(5, 113);
             panel1.TabIndex = 0;
             // 
             // X
@@ -72,7 +72,7 @@
             // pbIcon
             // 
             pbIcon.BackColor = Color.Transparent;
-            pbIcon.Image = Properties.Resources.icons8_hide_24;
+            pbIcon.Image = Properties.Resources.icons8_so_so_24;
             pbIcon.Location = new Point(21, 55);
             pbIcon.Name = "pbIcon";
             pbIcon.Size = new Size(24, 24);
@@ -85,7 +85,7 @@
             lbError.AutoSize = true;
             lbError.Font = new Font("Poppins", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbError.ForeColor = Color.FromArgb(150, 150, 150);
-            lbError.Location = new Point(49, 58);
+            lbError.Location = new Point(49, 54);
             lbError.Name = "lbError";
             lbError.Size = new Size(32, 23);
             lbError.TabIndex = 13;
@@ -96,7 +96,7 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(25, 25, 25);
-            ClientSize = new Size(250, 98);
+            ClientSize = new Size(250, 113);
             ControlBox = false;
             Controls.Add(lbError);
             Controls.Add(pbIcon);

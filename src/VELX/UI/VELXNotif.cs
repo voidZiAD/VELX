@@ -29,6 +29,8 @@ namespace VELX.UI
                 pbIcon.Image = Resources.icons8_save_24__1_;
             else if (type == "hidden")
                 pbIcon.Image = Resources.icons8_hide_24;
+            else if (type == "wave")
+                pbIcon.Image = Resources.icons8_so_so_24;
 
         }
 
