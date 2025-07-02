@@ -102,12 +102,6 @@ var notif = new VELXNotif("VELX is now in the background", "hidden");
 notif.SlideInFromTopRight();
 ```
 
-Supports types:
-
-* `"error"`
-* `"saved"`
-* `"hidden"`
-
 ---
 
 ## 📁 Folder Structure
