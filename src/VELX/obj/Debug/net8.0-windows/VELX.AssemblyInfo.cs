@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VELX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61c4dab11ca1dfd462f0237d0fa1b7583974582c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83d0855eb98f18d143a94fffcaa0b86aaf79351e")]
 [assembly: System.Reflection.AssemblyProductAttribute("VELX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VELX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
