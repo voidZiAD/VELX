@@ -45,7 +45,7 @@
 ### 💻 Requirements
 
 * Windows 10/11
-* .NET 6.0+ or .NET 8.0
+* .NET Framework 4.8
 * Visual Studio 2022+
 * [Guna UI2 Framework](https://www.nuget.org/packages/Guna.UI2.WinForms/)
 
